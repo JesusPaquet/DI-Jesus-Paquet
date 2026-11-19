@@ -2,7 +2,7 @@
 
 **Alumno/a:** Jesús Paquet Plata- 
 **Temática:** gestión de motos y pilotos de MOTOGP- 
-**IDE:** NetBeans / IntelliJ- 
+**IDE:** NetBeans- 
 **Inicio de sesión:** (a partir del Hito 1)
 
 ## Estado
